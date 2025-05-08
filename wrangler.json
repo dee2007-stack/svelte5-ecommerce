@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "svelte5-ecommerce",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3ebbe643-8c88-4e97-93eb-398555ee8092",
+      "database_name": "svelte5-ecommerce"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
